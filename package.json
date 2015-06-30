@@ -1,0 +1,23 @@
+{
+  "name": "grunt-replace-files",
+  "version": "1.0.1",
+  "description": "基于grunt的文本内容替换组件",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lh2907883/grunt-replace-files.git"
+  },
+  "keywords": [
+    "grunt",
+    "replace",
+    "file"
+  ],
+  "author": "lihao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lh2907883/grunt-replace-files/issues"
+  },
+  "homepage": "https://github.com/lh2907883/grunt-replace-files#readme"
+}
